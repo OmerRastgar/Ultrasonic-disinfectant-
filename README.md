@@ -11,6 +11,10 @@ A way to address transmission of diseases in hospitals, and other public places 
 https://user-images.githubusercontent.com/62338143/211217201-c3576591-c5e1-4bc1-9f6a-eee999350d24.mp4
 
 
+https://user-images.githubusercontent.com/62338143/211218167-2161214b-7ad2-40c2-9bbb-b4502a0925cc.mp4
+
+
+
 
 # Results
 Our main objective was to design an ecofriendly portable solution for cleaning and disinfection. We spent a large amount of time identifying and analyzing the problem. This helped us to find an optimized solution for our stakeholders. One of the major issues with disinfection is that many chemicals are used which damage everyday items and cause a lot of pollution. Our solution is not only environmentally safe but also pet safe. We were able to validate our prototype by testing each functionality separately to insure its workability. Then we did some tests in order to verify the quantification of our need statement. Right now, we have promising results that can scale up if we get more funding to develop a better prototype. It is envisioned that in the future, our phones may have the capabilities to produce ultrasound hence disinfection would automatically be taking place. Hence we have provided a frame work for further research in order to reach that level.
