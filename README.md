@@ -1,6 +1,6 @@
 # Ultrasonic disinfectant 
 
-A way to address transmission of diseases in hospitals, and other public places so that there is a 99.999% decrease in overall pathogen count hence leading to a low risk for contagion.Most surfaces have particles deeply embedded in them because no surface is completely smooth and contains crevasses. Hence the ridges stop particles. Also, the particles may be stuck due to inter-molecular forces. It could also be a biofilm, which don’t easily be removed. Hence no amount of cleaning or scrubbing would be able to remove these particles. Our device uses resonance which dislodges particles that can then be removed with vacuum features.
+A way to address transmission of diseases in hospitals, and other public places so that there is a 99.999% decrease in overall pathogen count hence leading to a low risk for contagion.Most surfaces have particles deeply embedded in them because no surface is completely smooth and contains crevasses. Hence the ridges stop particles. Also, the particles may be stuck due to inter-molecular forces. It could also be a biofilm, which don’t easily be removed. Hence no amount of cleaning or scrubbing would be able to remove these particles. Our device uses a phased array to magnify intensity and uses resonance to dislodges particles that can then be removed with vacuum features.
 
 ![hee](https://user-images.githubusercontent.com/62338143/211217043-14e8ef4d-9880-49ca-9aff-dd4d66e7aca4.png)
 
